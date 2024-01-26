@@ -1,6 +1,6 @@
 <h2 align="center"> Hello, World! 👋🌍 </h2>
 
-<h3 align="center"> Aspiring Open Source Enthusiast and Developer 🧑🏻‍💻🚀 </h3>
+<h3 align="center"> Aspiring to be an open source contributor 🧑🏻‍💻 </h3>
 
 - 📚 I'm currently deepening my knowledge in **Golang, Kubernetes, and Prometheus**, focusing on cloud technologies and infrastructure. 
 
